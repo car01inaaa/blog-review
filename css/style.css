@@ -1,0 +1,116 @@
+
+@font-face {
+  font-family: New Spirit;
+  src: url(new-spirit-bold-condensed-wisabo/New\ Spirit\ Bold\ Condensed.otf); /* url of the font */
+}
+
+.geologica-uniquifier {
+  font-family: "Geologica", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h2 {
+  background-color: #CB8586;
+  text-align: center;
+  font-family: New Spirit;
+  color: #F6EDC5;
+  font-size: 90pt;
+  margin-bottom: 0px;
+}
+
+h1 {
+  text-align: center;
+  font-family: New Spirit;
+  color: #F6EDC5;
+  font-size: 64pt;
+}
+body {
+  background-color: #E0AF3D;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 0px;
+}
+div.scroll-container {
+  background-color: #E0AF3D;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  margin-top: 0;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+h3 {
+  font-size: 25pt;
+  font-family: New Spirit;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+h4 {
+  font-size: 15pt;
+  font-family: "Geologica", sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+h5 {
+  background-color: #CB8586;
+  text-align: center;
+  font-family: New Spirit;
+  color: #F6EDC5;
+  font-size: 30pt;
+  margin: 0px;
+}
+
+p {
+  font-size: 15pt;
+  font-family: "Geologica", sans-serif;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+#headline-1 {
+  background-color: #CB8586;
+  font-family: New Spirit;
+  color: #F6EDC5;
+  font-size: 45pt;
+  margin: 0px;
+  margin-right: 0%;
+}
+
+#headline-2 {
+  background-color: #CB8586;
+  font-family: New Spirit;
+  color: #F6EDC5;
+  font-size: 30pt;
+  margin: 0px;
+  margin-left: 6%;
+  text-align: center;
+}
+
+#header-banner {
+  display: flex;
+  margin: 0;
+}
+
+
+.categories {
+  margin-bottom: 100px;
+}
+
+img {
+  align-items: center;
+}
